@@ -1,0 +1,6 @@
+D:\CSharp\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe.config
+D:\CSharp\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe
+D:\CSharp\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.pdb
+D:\CSharp\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csprojAssemblyReference.cache
+D:\CSharp\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.exe
+D:\CSharp\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb
